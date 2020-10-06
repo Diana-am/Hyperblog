@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    color: palevioletred;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid pink;
+    margin: 0 auto;
+}
+.container h1 {
+    font-size: 20px;
+}
